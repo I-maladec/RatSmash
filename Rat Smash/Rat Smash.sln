@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rat Smash", "Rat Smash\Rat Smash.csproj", "{EEB65640-0E63-49C4-B530-4761109CDE67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB65640-0E63-49C4-B530-4761109CDE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB65640-0E63-49C4-B530-4761109CDE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB65640-0E63-49C4-B530-4761109CDE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB65640-0E63-49C4-B530-4761109CDE67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A150D0-C6C8-4A90-B0E4-84BC870F1FE1}
+	EndGlobalSection
+EndGlobal
